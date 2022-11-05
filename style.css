@@ -1,0 +1,9 @@
+body {
+	text-transform: uppercase;
+	margin-top: 50px;
+	text-align: center;
+	background-image: linear-gradient(to right, red, yellow);
+	letter-spacing: 5px;
+
+
+}
